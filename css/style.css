@@ -42,6 +42,7 @@ h1{
     font-family: "Unbounded", sans-serif;
     text-align: center;
     margin-top:60px;
+        color: #FFFFFF;
 }
 
 h1 span{
@@ -54,6 +55,7 @@ p{
     text-align: center;
     width: 792px;
     margin: 24px auto 0;
+    color: #FFFFFF;
 }
 
 a{
